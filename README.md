@@ -19,14 +19,14 @@ The final result should be displayed to the user in an easy-to-read list.
 
 
 ## How to Run
-- Install latest version of Android Studio (#https://developer.android.com/studio)
+- Install latest version of Android Studio (https://developer.android.com/studio)
 - Clone repository
     ```sh
     git clone https://github.com/sameergopali/Fetch-Android-Challenge.git
     ```
 - Import the project: File->Open
 - Sync Gradle (File-> Sync Project with Gradle File)
-- Run unit tests and instrumentation test (Ctrl+Shift+F10)
+- (Optional) Run tests (Ctrl+Shift+F10)
 - Run application: (Configure emulator or connected device to use at least API 34)
 
 
