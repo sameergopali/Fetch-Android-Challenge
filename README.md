@@ -21,11 +21,11 @@ The final result should be displayed to the user in an easy-to-read list.
 - Install latest version of Android Studio (#https://developer.android.com/studio)
 - Clone repository
     ```sh
-    git clone https://github.com/
+    git clone https://github.com/sameergopali/Fetch-Android-Challenge.git
     ```
-- Import the project: File->Open, and selecting the folder of the repository
+- Import the project: File->Open
 - Configure emulator or connected device to use at least API 34
-- Run application: Shift+F10 (or Control+R on MacOS)
+- Run application: 
 
 ## About Project
 The project is built upon the Model-View-ViewModel (MVVM) architectural pattern. 
@@ -38,5 +38,6 @@ and includes buttons for seamless scrolling to the previous and next groups.
 ## Next Steps:
 Some enhancement that could be done include implementing persistent caching using Room or SQLite to support offline mode, allowing users to access data without an internet connection. 
 Dependency injection framework could also be integrated to improve code maintainability and adding more tests for more coverage and various use cases.
+
 ## Demo:
-![Project Demo](github.com/sameergopali/)
+![Project Demo](https://github.com/sameergopali/Fetch-Android-Challenge/tree/master/demo/recording.gif)
