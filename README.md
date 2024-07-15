@@ -40,7 +40,4 @@ Some enhancement that could be done include implementing persistent caching usin
 Dependency injection framework could also be integrated to improve code maintainability and adding more tests for more coverage and various use cases.
 
 ## Demo:
-
-<img src="https://github.com/sameergopali/Fetch-Android-Challenge/tree/master/demo/recording.gif" width="600"  alt="Project Demo">
-
-
+![Project Demo](https://github.com/sameergopali/Fetch-Android-Challenge/blob/master/demo/recording.gif)
