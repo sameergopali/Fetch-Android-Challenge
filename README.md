@@ -14,6 +14,7 @@ Display this list of items to the user based on the following requirements:
 - Display all the items grouped by "listId"
 - Sort the results first by "listId" then by "name" when displaying.
 - Filter out any items where "name" is blank or null.
+
 The final result should be displayed to the user in an easy-to-read list.
 
 
@@ -25,8 +26,8 @@ The final result should be displayed to the user in an easy-to-read list.
     ```
 - Import the project: File->Open
 - Sync Gradle (File-> Sync Project with Gradle File)
+- Run unit tests and instrumentation test (Ctrl+Shift+F10)
 - Run application: (Configure emulator or connected device to use at least API 34)
-You can also run Unit tests and Instrumentation test
 
 
 
